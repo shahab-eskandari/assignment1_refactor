@@ -8,4 +8,4 @@ I used [vite](https://vitejs.dev/) for creating project, so for running the code
 in the terminal.
 
 ## Results
-For seeing the result array please open console in the browser
+For seeing the result array please open console in the browser.
